@@ -1,0 +1,18 @@
+---
+engine: knitr
+title: "Papiers en 2019"
+format: 
+    html:
+        toc: true
+---
+
+{{< include utils.qmd >}}
+
+## {{< fa note-sticky >}} Djaman, K., O’Neill, M., Diop, L. et al. Evaluation of the Penman-Monteith and other 34 reference evapotranspiration equations under limited data in a semiarid dry climate. Theor Appl Climatol 137, 729–743 (2019). [https://doi.org/10.1007/s00704-018-2624-0](https://doi.org/10.1007/s00704-018-2624-0){target="_blank"}
+Reference evapotranspiration (ETo) is an important parameter in hydrological, agricultural and environmental studies. Accurate estimation of ETo helps to improve water management and increase water productivity and efficiency. While the Penman-Monteith ETo equation enjoys worldwide adoption as the most accurate ETo equation, the number of requested climatic variables makes its application very questionable under limited data conditions. [The objective of this study was to evaluate the Penman-Monteith ETo equation under limited climatic data and 34 simple ETo equations that request few climatic variables. Five weather stations were considered under the semiarid and dry climate across New Mexico for the period of 2009-2017. The Penman-Monteith ETo equation showed good performance under missing solar radiation, relative humidity and wind speed and could still be adapted under limited data conditions across New Mexico. However, it tended to underestimate daily ETo when more than one climatic variable data is missing. Among the simple ETo equations, four of the Valiantzas equations, along with the Makkink, Calibrated Hargreaves, Abtew, Jensen-Haise, and Caprio equations, were the best performing ones compared to the Penman-Monteith equation and could be the best alternative ETo estimation methods. These alternative equations could be used by irrigation managers, producers, engineers and university researchers to improve water management across the dry semiarid and arid zone across New Mexico, as well as other semiarid areas where water is the most limiting factor to food and fiber production.]{.abstract}
+
+## {{< fa person-chalkboard >}} Ndiaye, Papa & Bodian, Ansoumana & Diop, Lamine & Djaman, Koffi. (2019).  (XXXII~ème~ Colloque International de l’AIC - 29 Mai à 1 juin 2019). [https://www.researchgate.net/publication/333646211_...](https://www.researchgate.net/publication/333646211_EVALUATION_DE_METHODES_D'ESTIMATION_DE_L'EVAPOTRANSPIRATION_JOURNALIERE_ET_ANALYSE_DE_SENSIBILITE_DANS_LA_VALLEE_DU_FLEUVE_SENEGAL){target="_blank"}
+L’estimation de l’évapotranspiration (ET), une des composantes principales du cycle hydrologique et bon indicateur du changement climatique, est importante pour tous les programmes de gestion de l’eau. Huit méthodes d'estimation de l'évapotranspiration sont ainsi évaluées et l’impact de la variation des paramètres climatiques sur l’évapotranspiration est ensuite analysé. [La régression linéaire et les indices statistiques (EQM, EMB et PE) ont été utilisés pour évaluer la performance des méthodes. L’analyse de sensibilité est effectuée par la variation de chaque paramètre climatique de ± 5 à 20 %. Les résultats dans la vallée du fleuve Sénégal montrent que les méthodes combinatoires de Valiantzas (1 et 2) et celles aérodynamiques (Trabert et Penman) présentent les meilleures performances dans l’estimation de l’évapotranspiration et que celle-ci est plus sensible aux variations de température maximale, vitesse du vent et radiation, respectivement.]{.abstract}
+
+
+

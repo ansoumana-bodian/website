@@ -1,0 +1,11 @@
+---
+engine: knitr
+title: "Papiers en 2016"
+format: 
+    html:
+        toc: true
+---
+
+{{< include utils.qmd >}}
+## {{< fa note-sticky >}}  Ansoumana  Bodian, Honoré  Dacosta, Réné Ndimag  Diouf, El Hadj Ousmane  Ndiaye, Anastasie  Mendy, (2016). Contribution à la connaissance de l’aléa pluvial au sénégal grâce à la valorisation des données pluviographiques historiques, Climatologie 13 38-46 (2016). [https://doi.org/10.4267/climatologie.1194](https://doi.org/10.4267/climatologie.1194){target=_blank}
+Cette note de recherche présente les résultats du programme de dépouillement des diagrammes pluviographiques des principales stations synoptiques du Sénégal qui a duré 6 ans (2001-2006). Ce programme a été entrepris par le laboratoire d’hydro-morphologie du Département de Géographie de l’Université Cheikh Anta Diop de Dakar (UCAD) en collaboration avec l’Agence Nationale de l’Aviation Civile et de la Météorologie (ANACIM), ex Direction de la Météorologie du Sénégal. [Il a permis de sauvegarder et de mettre sous forme numérique une base de données pluviographique opérationnelle à l’échelle du pays. Des courbes Intensité-Durée-Fréquence (IDF) ont ainsi été élaborées pour les stations qui disposent de données suffisantes. Ces courbes IDF peuvent désormais servir au dimensionnement des ouvrages hydrauliques et devront conduire à la définition des plans d’assainissement fiables.]{.abstract}

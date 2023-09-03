@@ -51,24 +51,26 @@ website:
       - icon: envelope
         menu:
           - text: ansoumana.bodian@ugb.edu.sn
-            url:  mailto:ansoumana.bodian@ugb.edu.sn
+            href:  mailto:ansoumana.bodian@ugb.edu.sn
+            target: _blank
           - text: bodianansoumana@gmail.com
-            url:  mailto:bodianansoumana@gmail.com
+            href:  mailto:bodianansoumana@gmail.com
+            target: _blank
         href: https://https://wa.me/221778117553
       - icon: linkedin
         menu:
           - text: Profile
-            url:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
+            href:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
+            target: _blank
           - text: Projets
-            url:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/projects/
+            href:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/projects/
+            target: _blank
           - text: Compétences
-            url: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/skills/
-          - text:
-            url: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/publications/
-      # - icon: whatsapp
-      #   text: WhatsApp
-      #   href: https://https://wa.me/221778117553
-
+            href: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/skills/
+            target: _blank
+          - text: Publications
+            href: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/publications/
+            target: _blank
   sidebar:
     - id: projects
       logo: img/logo.jpg
@@ -82,7 +84,10 @@ website:
             - publications/2022.qmd
             - publications/2021.qmd
             - publications/2020.qmd
+            - publications/2019.qmd
             - publications/2018.qmd
+            - publications/2017.qmd
+            - publications/2016.qmd
         - section: Projets
           contents: 
             - projects/2023.qmd
@@ -104,7 +109,7 @@ format:
   html:
     grid:
       sidebar-width: 200px
-      # margin-width: 450px
+      margin-width: 350px
       # body-width: 600px
     theme: 
       - cosmo
