@@ -1,0 +1,20 @@
+---
+engine: knitr
+title: "Papiers en 2021"
+format: 
+    html:
+        toc: true
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+{{< include utils.qmd >}}
+
+::: {.justify}
+## Amoussou, E., Mahe, G., Amrouni, O., Bodian, A., Cudennec, C., Dietrich, S., Kodja, D. J., and Vissin, E. W.: Preface: Hydrology of Large River Basins in Africa, Proc. IAHS, 384, 1–4, https://doi.org/10.5194/piahs-384-1-2021, 2021.
+FRIEND-Water is a flagship program of the UNESCO Intergovernmental Hydrological Program. Since it started in 1985 the International Association of Hydrological Sciences (IAHS) gave its scientific support to the every 4 years global FRIEND conferences and some other occasional issues, which resulted in the publication of previously called “redbooks” (available online at https://iahs.info, last access: 18 October 2021), and now Proceedings of IAHS (PIAHS). [This collaboration between FRIEND-Water and IAHS is very important to keep developing the visibility and attractiveness of hydrological and related sciences in all countries of the World, particularly in developing countries. This PIAHS issue publishes articles presented at the 4th International Conference on the Hydrology of Large Rivers Basins of Africa, organized by hydrologists of Benin. The co-editors of this issue come from Benin, Senegal, Tunisia, Germany and France, which shows the strong South-North relationships between institutions and colleagues. From more than 230 abstracts, 132 papers were submitted to the PIAHS issue, and 56 were eventually accepted after a double peer-reviewing process involving 122 reviewers from 21 countries, listed below. Lire la préface [ici](https://piahs.copernicus.org/articles/384/1/2021/){target="_blank"}]{.target}
+:::

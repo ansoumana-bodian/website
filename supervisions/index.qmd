@@ -1,0 +1,9 @@
+---
+engine: knitr
+title: ""
+format: 
+    html:
+        toc: true
+---
+
+{{< include thesis.qmd >}}

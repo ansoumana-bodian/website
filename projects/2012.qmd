@@ -1,0 +1,18 @@
+---
+engine: knitr
+title: "Projets en 2012"
+format: 
+    html:
+        toc: true
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+##  Etudes techniques d’exécution et d’élaboration d’un dossier d’appel d’offres pour les travaux d’entretien périodique des tronçons : Sénobo-Ziguinchor (137 Km environ) situé sur la RN4 et la CFN4 (Diaroumè) - Sédhiou situé sur la R22 (53 Km environ) (Associé avec la Direction de la Gestion et de la Planification des Ressources en Eau (DGPRE) / Janvier 2012 - Janvier 2013) 
+Collecte et traitement des données pluviométriques, cartographique et topographique. Puis délimitation des différents bassins versants et caractérisation physiographique de ces derniers et calcule des crues décennaux des bassins versants.
+:::

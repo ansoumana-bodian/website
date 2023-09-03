@@ -1,0 +1,86 @@
+{
+  "index.qmd": {
+    "index.html": "b3c11de0"
+  },
+  "about.qmd": {
+    "about.html": "6a84565f"
+  },
+  "projects/index.qmd": {
+    "index.html": "984f45d7"
+  },
+  "home.qmd": {
+    "home.html": "b459bfb4"
+  },
+  "home/home.qmd": {
+    "home.html": "9bc15c77"
+  },
+  "home/index.qmd": {
+    "index.html": "5f75080a"
+  },
+  "publications/index.qmd": {
+    "index.html": "161c0f3f"
+  },
+  "skills/index.qmd": {
+    "index.html": "27f1ecbb"
+  },
+  "supervisions/index.qmd": {
+    "index.html": "c9e18510"
+  },
+  "projects/2023.qmd": {
+    "2023.html": "6ddc114e"
+  },
+  "projects/2022.qmd": {
+    "2022.html": "58534b56"
+  },
+  "projects/2020.qmd": {
+    "2020.html": "6b59a5d0"
+  },
+  "projects/2021.qmd": {
+    "2021.html": "3a25c0ef"
+  },
+  "projects/2017.qmd": {
+    "2017.html": "420b1245"
+  },
+  "projects/2018.qmd": {
+    "2018.html": "0305f3af"
+  },
+  "projects/2015.qmd": {
+    "2015.html": "b84d74a2"
+  },
+  "external-links/example.qmd": {
+    "example.html": "2446a26d"
+  },
+  "projects/2014.qmd": {
+    "2014.html": "f5747e7f"
+  },
+  "projects/2012.qmd": {
+    "2012.html": "0e607b1b"
+  },
+  "projects/2009.qmd": {
+    "2009.html": "20187d8d"
+  },
+  "supervisions/thesis.qmd": {
+    "thesis.html": "909f7bf3"
+  },
+  "supervisions/memoires.qmd": {
+    "memoires.html": "d93db965"
+  },
+  "publications/2023.qmd": {
+    "2023.html": "bb5a1a81"
+  },
+  "publications/2020.qmd": {
+    "2020.html": "8309f964"
+  },
+  "publications/2022.qmd": {
+    "2022.html": "54237614"
+  },
+  "publications/utils.qmd": {
+    "utils.html": "79ba4fdd"
+  },
+  "publications/2018.qmd": {
+    "2018.html": "a6c77d31"
+  },
+  "publications/2021.qmd": {
+    "2021.html": "2181f89f"
+  }
+}

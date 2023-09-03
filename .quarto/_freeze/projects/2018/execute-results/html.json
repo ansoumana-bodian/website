@@ -1,0 +1,16 @@
+{
+  "hash": "a96209227fcaab6eecf8c42a2e54cc61",
+  "result": {
+    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2018\"\nformat: \n    html:\n        toc: true\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n\n::: {.justify}\n## PAGIRE (Plan d’Action pour la Gestion Intégrée des Ressources en Eau) (Associé à l'Université Gaston Berger / Janvier 2018 - Juillet 2018)\nIntégration de la composante changement climatique dans le [PAGIRE (Plan d’Action pour la Gestion Intégrée des Ressources en Eau)](http://www.dgpre.gouv.sn/index.php/2018/09/14/le-plan-de-gestion-integree-des-ressources-en-eau-pagire/){target=\"_blank\"}.\n:::",
+    "supporting": [
+      "2018_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

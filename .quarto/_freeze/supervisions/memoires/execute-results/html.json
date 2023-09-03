@@ -1,0 +1,16 @@
+{
+  "hash": "783cbf4fc0b9d93015ffb5b218bf9fa0",
+  "result": {
+    "markdown": "---\nengine: knitr\ntitle: \"Mémoires de Master\"\nformat: \n    html:\n        toc: true\n---",
+    "supporting": [
+      "memoires_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,28 @@
+---
+engine: knitr
+title: ""
+format: 
+    html:
+        toc: true
+---
+<!---
+ 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+.center {
+  text-align: center !important
+}
+```
+
+
+{{< include 2023.qmd >}}
+
+<hr>
+
+::: {.center}
+[2009](2009.qmd) | [2012](2012.qmd)  | [2014](2014.qmd)  | [2015](2015.qmd) | [2017](2017.qmd)  | [2018](2018.qmd)  | [2020](2020.qmd) | 
+[2021](2021.qmd)  | [2022](2022.qmd)  | [2023](2023.qmd) 
+::: 
+--->

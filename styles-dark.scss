@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+
+// fonts
+//@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&family=Roboto+Mono:wght@300&family=Sanchez&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Nunito+Sans:wght@200&family=Roboto+Mono:wght@300&family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Nunito:wght@300;800&family=Roboto+Mono:wght@300;400&family=Sanchez&display=swap');
+
+// Fonts (CSS rules)
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-family-serif: 'Sanchez', serif; 
+//$font-family-sans-serif: 'Montserrat', sans-serif;
+$font-family-monospace: 'Roboto Mono', monospace;
+
+// Colors
+$baby-blue: #d2e3f3;
+$teal: #047C90;
+$dark-blue: #003660;
+$white: #FFFFFF;
+$green: #78A540; 
+$magenta: #900C3F;
+$white: #FFFFFF;
+$off-white: #F7F7F7; 
+$gray: #ADADAD; 
+$black: #000000; 
+
+// scss variables
+$presentation-title-slide-text-align: "left";
+//$presentation-font-size-root: 23px;
+$body-bg: $white;
+$link-color: $green; 
+$code-color: $magenta;
+$code-bg: $white;
+$code-block-font-size: 0.4em;
+$code-block-bg: $off-white;
+
+
+/*-- scss:rules --*/
+
+// HTML selectors
+
+strong, b {
+    font-weight: 900; // does not change weight?
+    color: $teal;
+}
+
+// horizontal line
+hr {
+    border: 5px solid $dark-blue;
+    border-radius: 0px;
+    margin-bottom: 30px;
+}
+  
+// hr.separator.gray {
+//     border: .5px solid $gray;
+//     border-radius: 0px;
+//     margin-bottom: 0px;
+// }

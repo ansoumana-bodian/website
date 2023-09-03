@@ -1,0 +1,16 @@
+{
+  "hash": "a9b8cf92004b55602defb6caa2e7b3b3",
+  "result": {
+    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2022\"\nformat: \n    html:\n        toc: true\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n::: {.justify}\n## Accompagnement de l'Organisation pour la Mise en Valeur du Fleuve Gambie (OMVG) pour le projet d’Aménagement Hydroélectrique de Sambangalou (AHES) (Associé à l'Université Gaston Berger / Mai 2022 - Mai 2023)\n\nLa contribution de l’UICN, dans le cadre de cet accompagnement, sera axée sur l’évaluation de la conception de la séquence des mesures d’évitement, atténuation, compensation des impacts du projet sur trois composantes (LIVRABLES) clés :\n\n1. Une espèce patrimoniale présente dans la zone d’influence de l’ouvrage : le chimpanzé\n2. Le Parc National du Niokolo Koba et notamment au regard de son statut de site « en péril » du Patrimoine Mondial et dont la volonté du Sénégal et le retrait de cette liste de site en péril.\n3. Le fonctionnement hydrologique du fleuve Gambie et des zones humides de la zone.\n\n:::\n:::",
+    "supporting": [
+      "2022_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hash": "4ad2c728ca2b51127b6302f61429e668",
+  "result": {
+    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2021\"\nformat: \n    html:\n        toc: true\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n\n::: {.justify}\n## Etude de faisabilité d’un projet de démonstration visant à améliorer de façon durable la zone de captage des forages de Pout au Sénégal (Associé à l'Université Gaston Berger / Janvier 2021 - Novembre 2022)\nL’objectif principal de cette étude de faisabilité est d’identifier les solutions fondées sur la nature les plus efficaces afin d’améliorer la recharge de la nappe dans la zone de captage des forages de Pout, à proximité de la capitale. Les objectifs globaux de cette étude sont les suivants :\n\n1. Evaluer la vulnérabilité de la nappe phréatique face au changement climatique et aux pressions humaines ; \n2. Identifier des options d’adaptation basées sur la nature ;\n3. Analyser la viabilité économique et sociale de ces options ;\n3. Proposer les modèles de gouvernance et de financement nécessaires pour leur mise en œuvre effective sur la durée (avec un horizon de 30 ans).\n:::\n\n::: {.justify}\n## Réalisation des études de la ressource en eau du Complexe Kayanga-Anambé-Lac Waïma et l'élaboration d'un Schéma Directeur d'aménagement Hydro-Agricole pour le département de Vélingara (Juillet 2021 - Septembre 2022)\nRéalisation des études de la ressource en eau (Etude Bathymétrique, Etude Hydrologique, Amélioration du Système de Suivi, nouvelles consignes de gestion du Barrage de Niandouba) du Complexe Kayanga-Anambé-Lac Waïma et l'élaboration d'un Schéma Directeur d'aménagement Hydro-Agricole pour le département de Vélingara.\n:::",
+    "supporting": [
+      "2021_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

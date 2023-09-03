@@ -1,0 +1,18 @@
+---
+engine: knitr
+title: "Projets en 2009"
+format: 
+    html:
+        toc: true
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+## Etudes de faisabilité du Renforcement de la Kayanga supérieure à partir de la Koulountou (Associé à MCA / Janvier 2009 - Janvier 2010)
+Etude de la faisabilité d’un transfert d’eau de la Koulountou vers la Kayanga pour étendre les périmètres irrigués de l’Anambé, créer des points d’eau pour l’abreuvement du bétail et alimenter en eau potable le village de Médina Gounas.
+:::

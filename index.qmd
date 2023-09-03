@@ -1,0 +1,103 @@
+---
+engine: knitr
+side: false
+title: ""
+# image: img/bodian_profile.jpg
+# about:
+#   id: hero-heading
+  # template: trestles
+  # image-shape: rectangle
+  # links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
+    # - icon: researchgate
+    #   text: ResearchGate
+    #   href: https://www.researchgate.net/profile/Ansoumana-Bodian
+    # - icon: whatsapp
+    #   text: WhatsApp
+    #   href: https://https://wa.me/221778117553
+format: 
+  html: 
+    toc: false
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+:::: {.columns}
+::: {.column width="47.5%"}
+::: {.justify}
+## [{{< fa user >}} Ansoumana BODIAN]{.home-page-subtitle}
+Je suis Enseignent chercheur au sein de la Section de Géographie à [l'Université Gaston Berger de Saint-Louis](https://www.ugb.sn/){target="_blank"} où je dispense des cours d'hydrologie et de Système d'Information Géographie (SIG) depuis 2013. 
+
+Mes activités de recherche tournent autour de la caractérisation de la variabilité spatio-temporelle du climat et de ses impacts hydrologiques, de la modélisation de la relation pluie-débit et de l'élaboration et l'assimilation des scénarios climatiques dans les modèles hydrologiques.
+:::
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+<br><br>
+![](img/bodian_profile.jpg){width="65%" height="65%"}
+:::
+::::
+
+:::: {.columns}
+::: {.column width="47.5%"}
+::: {.justify}
+## [{{< fa history >}} Expériences]{.home-page-subtitle}
+**{{< fa angle-right >}} Depuis Février 2013** Enseignant-Chercheur (Hydrologie) à [l'Université Gaston Berger de Saint-Louis](https://www.ugb.sn/){target="_blank"}<br>
+**{{< fa angle-right >}} Juillet 2010 - Février 2013** Chef de Division hydrologie point focal [OMVS (Organisation pour la Mise en Valeur du Fleuve Sénégal)](https://www.omvs.org/){target="_blank"} (Direction de la Gestion et de la Planification des Ressources en Eau)<br>
+**{{< fa angle-right >}} Juillet 2010 - Janvier 2013** Chef de la Division Hydrologie ([Direction de la Gestion de la planification des Ressources en Eau (DGPRE)](http://www.dgpre.gouv.sn/){target="_blank"})<br>
+**{{< fa angle-right >}} Juin 2009 - Août 2009** Directeur des Etudes au Millénium Challenge Acount (MCA) / Sénégal
+:::
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+::: {.justify}
+## [{{< fa sliders >}} Skills]{.home-page-subtitle}
+[**{{< fa angle-right >}}** Expert sénior dans la formulation et la gestion des projets dans le secteur de l'eau <br>
+**{{< fa angle-right >}}** Système d'Information Géographie (SIG) <br>
+**{{< fa angle-right >}}** Hydrométrie <br>
+**{{< fa angle-right >}}** Modélisation de la relation pluie-débit <br>
+**{{< fa angle-right >}}** Analyse hydro-climatique <br>
+**{{< fa angle-right >}}** Planification stratégique <br>
+**{{< fa angle-right >}}** Prise de parole en public]{.skills-text}
+:::
+:::
+::::
+
+:::: {.columns}
+::: {.column width="47.5%"}
+::: {.justify}
+## [{{< fa id-card >}} Contacts]{.home-page-subtitle}
+[{{< fa envelopes-bulk >}} ansoumana.bodian@ugb.edu.sn](mailto:ansoumana.bodian@ugb.edu.sn)<br>
+[{{< fa envelopes-bulk >}} bodianansoumana@gmail.com](mailto:bodianansoumana@gmail.com)<br>
+<!---
+ [`r fontawesome::fa("whatsapp", a11y = "sem")` 221 77 811 75 53](https://https://wa.me/221778117553)<br> 
+--->
+[`r fontawesome::fa("researchgate", a11y = "sem")` ResearchGate/Ansoumana Bodian](https://www.researchgate.net/profile/Ansoumana-Bodian)<br>
+[`r fontawesome::fa("linkedin", a11y = "sem")` LinkedIn/Ansoumana Bodian](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn)
+:::
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="47.5%"}
+::: {.justify}
+## [{{< fa envelope >}} NewsLetter]{.home-page-subtitle}
+Recever mes publications en temps réel !<br>
+<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 65px; width: 90%;"></iframe>
+
+:::
+:::
+::::

@@ -1,0 +1,50 @@
+---
+engine: knitr
+title: ""
+image: img/bodian_profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Ansoumana-Bodian
+    - icon: whatsapp
+      text: WhatsApp
+      href: https://https://wa.me/221778117553
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.column-screen-inset}
+
+::: {#hero-heading}
+
+::: {.justify}
+Je suis Enseignent chercheur au sein de la Section de Géographie à [l'Université Gaston Berger de Saint-Louis](https://www.ugb.sn/) où je dispense des cours d'hydrologie et de Système d'Information Géographie (SIG) depuis 2013. 
+
+J'ai eu à travailler pendant deux ans (entre 2010 et 2012) à la [Direction de la Gestion de la planification des Ressources en Eau (DGPRE)](http://www.dgpre.gouv.sn/) en tant que Chef de la Division hydrologie. Durant mon passage à la [DGPRE](http://www.dgpre.gouv.sn/), j'étais aussi membre de la Commission Permanente des Eaux de [l'OMVS (Organisation pour la Mise en Valeur du Fleuve Sénégal)](https://www.omvs.org/). 
+
+Mes activités de recherche tournent autour de la caractérisation de la variabilité spatio-temporelle du climat et de ses impacts hydrologiques, de la modélisation de la relation pluie-débit et de l'élaboration et l'assimilation des scénarios climatiques dans les modèles hydrologiques.
+:::
+
+:::
+
+---
+
+:::
+

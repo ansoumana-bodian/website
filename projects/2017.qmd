@@ -1,0 +1,49 @@
+---
+engine: knitr
+title: "Projets en 2017"
+format: 
+    html:
+        toc: true
+---
+
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+
+::: {.justify}
+## Etude hydrogéologique et hydrologique complémentaires de la zone de la vallée du fleuve SénégalEtude hydrogéologique et hydrologique complémentaires de la zone de la vallée du fleuve Sénégal (Associé à l'Université Gaston Berger / Janvier 2017 - Décembre 2020)
+Réalisation d’études hydrogéologiques et hydrologiques sur des entités hydrographiques et hydrogéologiques distinctes. La présente mission concerne la zone de la vallée du fleuve Sénégal entre Bakel et Dagana.
+:::
+
+::: {.justify}
+## Etude hydrologique de la réserve de Biosphère du Delta du Saloum (Associé à l'Université Gaston Berger / Septembre 2017 - Septembre 2018)
+Caractérisation des bassins versants, analyse du régime climatique passé et futur, estimation des écoulement de surface, analyse de la salinité et proposition des activité de suivis dans le cadre du programme [MCA de Wetland International](https://africa.wetlands.org/publications/mangrove-capital-africa-rufiji-delta/){target="_blank"}
+:::
+
+::: {.justify}
+## Evaluations de 12 projets d'adaptation aux changements climatiques dans le bassin versant du fleuve Sénégal (Associé à l'Université Gaston Berger / Novembre 2017 - Août 2018)
+L’objectif de l’étude est de procéder à L’examen de la faisabilité technique, financière, et la durabilité de l2 projets pilotes d’adaptation aux changements climatiques dans les Etats membres de I’[OMVS](https://www.omvs.org/){target="_blank"}. Ces projets pilotes sont destinés prioritairement à lutter contre la dégradation de l’environnement ainsi que L’altération des conditions de vie socio-économique et des moyens d’existence des populations du basin dues aux impacts de la variabilité et des changements climatiques.
+:::
+
+::: {.justify}
+## Plan National d’Adaptation du Sénégal (Associé à l'Université Gaston Berger / Juin 2017 - Décembre 2017)
+Le Gouvernement du Sénégal a sollicité l’appui du [PNUD](https://www.undp.org/fr){target="_blank"} pour l’accès au financement du Fonds pour l'environnement mondial (FEM) par l'intermédiaire du Fonds pour les pays les moins avancés (PMA) pour l'élaboration du projet « Plan National d'Adaptation (PNA) au Sénégal/LDCF ». L'objectif de ce projet est de renforcer la capacité des ministères sectoriels et des gouvernements locaux à mieux évaluer les conséquences du changement climatique et à ajuster les politiques et budgets existants pour l'intégration des risques sur le changement climatique à moyen et long terme ainsi que des mesures d'adaptation.
+:::
+
+::: {.justify}
+## Incubation du projet de suivi des ressources naturelles et d’accompagnement des changements autour du barrage de Diama, de ses ouvrages annexes et des milieux associés (Associé à l'Université Gaston Berger / Juin 2017 - Octobre 2017)
+Préparer (« incuber ») un projet de grande ampleur visant à favoriser l’adaptation des sociétés et des écosystèmes aux évolutions en cours et à venir autour de la cuvette de la retenue de Diama et de ses ouvrages annexes, ainsi qu’à l’embouchure et dans le delta du fleuve Sénégal
+:::
+
+::: {.justify}
+## Projet d’Urgence et de Gestion Environnementale en Milieu Urbain (PUGEMU) : Etude technique et de faisabilité de la mise en place d'un système d'alerte précoce des crues (SAPC) dans le bassin de l'Ouémé (Associé à l'Université Gaston Berger / Janvier 2017 - Juillet 2017)
+L’objectif global du projet se décline en trois objectifs spécifiques : 
+
+1. établir l’historique des inondations dans le bassin versant de l’Ouémé de 1960 à nos jours ; 
+2. évaluer les systèmes d’alerte précoce existants au niveau du bassin de l’Ouémé ;
+3. élaborer un plan d’actions et une approche méthodologique pour la mise en place d’un système d’alerte précoce aux inondations.
+:::

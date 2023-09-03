@@ -1,0 +1,107 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Ansoumana BODIAN"
+
+  page-footer:
+    left: "&copy; Copyright 2023, Ansoumana BODIAN"
+    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  navbar:
+    logo: img/bodian_profile.jpg
+    search: true
+    # pinned: true
+    left:
+      # - text: "Accueil"
+      #   file: index.qmd
+      - text: Projets
+        href: projects/2023.qmd
+      - text: Publications
+        file: publications/2022.qmd
+      - text: Supervisions
+        file: supervisions/thesis.qmd
+      # - text: "CV"
+      #   file: about.qmd
+      - text: Ressources
+        menu: 
+          - text: CSE
+            href: https://www.cse.sn/
+            target: _blank
+          - text: DGPRE
+            href: http://www.dgpre.gouv.sn/
+            target: _blank
+          - text: R Weekly
+            href: https://rweekly.org/
+            target: _blank
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/
+            target: _blank
+          - text: ResearchGate
+            href: https://www.researchgate.net/
+            target: _blank
+          - text: Google Scholar
+            href: https://scholar.google.com/
+            target: _blank
+      
+    tools:
+      - icon: envelope
+        menu:
+          - text: ansoumana.bodian@ugb.edu.sn
+            url:  mailto:ansoumana.bodian@ugb.edu.sn
+          - text: bodianansoumana@gmail.com
+            url:  mailto:bodianansoumana@gmail.com
+        href: https://https://wa.me/221778117553
+      - icon: linkedin
+        menu:
+          - text: Profile
+            url:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
+          - text: Projets
+            url:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/projects/
+          - text: Compétences
+            url: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/skills/
+          - text:
+            url: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/publications/
+      # - icon: whatsapp
+      #   text: WhatsApp
+      #   href: https://https://wa.me/221778117553
+
+  sidebar:
+    - id: projects
+      collapse-level: 2
+      style: "docked"
+      # background: light
+      contents:
+        - section: Publications
+          contents: 
+            - publications/2023.qmd
+            - publications/2022.qmd
+            - publications/2021.qmd
+            - publications/2020.qmd
+            - publications/2018.qmd
+        - section: Projets
+          contents: 
+            - projects/2023.qmd
+            - projects/2022.qmd
+            - projects/2021.qmd
+            - projects/2020.qmd
+            - projects/2018.qmd
+            - projects/2017.qmd
+            - projects/2015.qmd
+            - projects/2014.qmd
+            - projects/2012.qmd
+            - projects/2009.qmd
+        - section: "Supervisions"
+          contents: 
+            - supervisions/thesis.qmd
+            # - supervisions/memoires.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: Sur cette page

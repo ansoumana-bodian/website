@@ -1,0 +1,111 @@
+---
+engine: knitr
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+```{=html}
+<script>
+  
+  function addAbstractWithButton(abstractClass, buttonText, abstractText) {
+    
+    const divElement = document.querySelector(`.${abstractClass}`);
+    const randomId = "abstract-" + Math.floor(Math.random() * 1000000);
+  
+    // Create the new button element
+    const buttonElement = document.createElement("button");
+    buttonElement.className = "show-abstract";
+    buttonElement.textContent = buttonText;
+    buttonElement.onclick = function() {
+      showAbstract(randomId);
+    };
+  
+    // Create the new abstract element
+    const abstractElement = document.createElement("p");
+    abstractElement.id = randomId;
+    abstractElement.style.display = "none";
+    abstractElement.innerHTML = abstractText;
+  
+    // Replace the div element with the new button and abstract elements
+    divElement.parentNode.replaceChild(buttonElement, divElement);
+    buttonElement.insertAdjacentElement("afterend", abstractElement);
+  }
+  
+  function showAbstract(abstractId) {
+    var abstract = document.getElementById(abstractId);
+    if (abstract.style.display === "none") {
+      abstract.style.display = "block";
+    } else {
+      abstract.style.display = "none";
+    }
+  }
+
+  function addAbstractButton() {
+    var abstracts = document.querySelectorAll(".abstract")
+    abstracts.forEach(e => {
+      addAbstractWithButton("abstract", " Learn more ...", e.innerHTML);
+    });
+  }
+  
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    addAbstractButton();
+  });
+
+
+</script>
+```
+
+```{=html}
+<script>
+  
+  function addPresentationWithButton(presentationClass, buttonText, presentationText) {
+    
+    const divElement = document.querySelector(`.${presentationClass}`);
+    const randomId = "presentation-" + Math.floor(Math.random() * 1000000);
+  
+    // Create the new button element
+    const buttonElement = document.createElement("button");
+    buttonElement.className = "show-presentation";
+    buttonElement.textContent = buttonText;
+    buttonElement.onclick = function() {
+      showPresentation(randomId);
+    };
+  
+    // Create the new presentation element
+    const presentationElement = document.createElement("p");
+    presentationElement.id = randomId;
+    presentationElement.style.display = "none";
+    presentationElement.innerHTML = presentationText;
+  
+    // Replace the div element with the new button and presentation elements
+    divElement.parentNode.replaceChild(buttonElement, divElement);
+    buttonElement.insertAdjacentElement("afterend", presentationElement);
+  }
+  
+  function showPresentation(presentationId) {
+    var presentation = document.getElementById(presentationId);
+    if (presentation.style.display === "none") {
+      presentation.style.display = "block";
+    } else {
+      presentation.style.display = "none";
+    }
+  }
+
+  function addPresentationButton() {
+    var presentations = document.querySelectorAll(".presentation")
+    presentations.forEach(e => {
+      addPresentationWithButton("presentation", " Show Presentation", e.innerHTML);
+    });
+  }
+  
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    addPresentationButton();
+  });
+
+
+</script>
+```
