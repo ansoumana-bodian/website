@@ -4,14 +4,15 @@ project:
 
 website:
   page-navigation: true
-  title: "Ansoumana BODIAN"
+  title: "Ansoumana Bodian"
+  favicon: img/logo.jpg
 
   page-footer:
     left: "&copy; Copyright 2023, Ansoumana BODIAN"
     # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   navbar:
-    logo: img/bodian_profile.jpg
+    # logo: img/bodian_profile.jpg
     search: true
     # pinned: true
     left:
@@ -70,6 +71,7 @@ website:
 
   sidebar:
     - id: projects
+      logo: img/logo.jpg
       collapse-level: 2
       style: "docked"
       # background: light
@@ -100,6 +102,10 @@ website:
 
 format:
   html:
+    grid:
+      sidebar-width: 200px
+      # margin-width: 450px
+      # body-width: 600px
     theme: 
       - cosmo
       - styles.scss

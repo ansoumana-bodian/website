@@ -1,7 +1,7 @@
 {
-  "hash": "f11412fff857627c902c735aead56ce6",
+  "hash": "0c7f09d36094a3a331457d8a2e740799",
   "result": {
-    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2014\"\nformat: \n    html:\n        toc: true\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n::: {.justify}\n## Etudes techniques d’exécution et d’élaboration d’un dossier d’appel d’offres pour les travaux d’entretien périodique des tronçons : Bignona-Diouloulou-Séléti long de 66.026 (Associé à l'Université Gaston Berger / Janvier 2014 - Janvier 2015)\nCollecte et traitement des données pluviométriques, cartographique et topographique. Puis délimitation des différents bassins versants et caractérisation physiographique de ces derniers et calcule des crues décennaux des bassins versants.\n:::",
+    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2014\"\nformat: \n    html:\n        toc: true\n---\n\n\n## Etudes techniques d’exécution et d’élaboration d’un dossier d’appel d’offres pour les travaux d’entretien périodique des tronçons : Bignona-Diouloulou-Séléti long de 66.026 (Associé à l'Université Gaston Berger / Janvier 2014 - Janvier 2015)\nCollecte et traitement des données pluviométriques, cartographique et topographique. Puis délimitation des différents bassins versants et caractérisation physiographique de ces derniers et calcule des crues décennaux des bassins versants.",
     "supporting": [
       "2014_files"
     ],

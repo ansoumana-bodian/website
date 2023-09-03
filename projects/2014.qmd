@@ -6,13 +6,5 @@ format:
         toc: true
 ---
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-::: {.justify}
 ## Etudes techniques d’exécution et d’élaboration d’un dossier d’appel d’offres pour les travaux d’entretien périodique des tronçons : Bignona-Diouloulou-Séléti long de 66.026 (Associé à l'Université Gaston Berger / Janvier 2014 - Janvier 2015)
 Collecte et traitement des données pluviométriques, cartographique et topographique. Puis délimitation des différents bassins versants et caractérisation physiographique de ces derniers et calcule des crues décennaux des bassins versants.
-:::

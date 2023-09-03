@@ -16,7 +16,7 @@ $gray-900: #212529 !default;
 $black:    #000 !default;
 
 $primary:  #06436e !default;
-// $navbar-bg: $white !default;
+$navbar-bg: $gray-100 !default;
 $navbar-fg: $primary !default;
 $code-color: $primary !default;
 $font-family-base:  'Source Sans Pro',  'Lato', 'Merriweather', 'Roboto Regular', 'Cabin Regular' !default;
@@ -50,20 +50,21 @@ strong, b {
 .quarto-title .title{
     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
     color: $teal !important;
-    border-bottom: 4px solid $teal;
+    border-bottom: 2px solid $teal;
     border-radius: 0px;
     margin-bottom: 30px;
     text-align: right;
+    font-size: $font-size-base * 1.2;
 }
   
 h2.anchored {
     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.1;
+    font-size: $font-size-base * 1.2;
 }
 
 .home-page-subtitle {
     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.7;
+    font-size: $font-size-base * 1.5;
     color: $teal !important;
     border-bottom: 3px solid $teal;
     border-radius: 0px;
@@ -71,44 +72,79 @@ h2.anchored {
     // text-align: right;
 }
 
-.skills-text {
-    font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.1;
-}
-
-.sidebar-item-container{
-    font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.2;
-}
-
-a.sidebar-item-text.sidebar-link.text-start{
+.home-page-subtitle-2 {
     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
     font-size: $font-size-base * 1.5;
-    // color: $primary
+    color: $gray-700 !important;
+    border-bottom: 3px solid $gray-700;
+    border-radius: 0px;
+    margin-bottom: 30px;
+    // text-align: right;
 }
+
+.skills-text {
+    font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
+    font-size: $font-size-base * 1.02;
+}
+
+// .sidebar-item-container{
+//     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
+//     font-size: $font-size-base * 1.2;
+// }
+
+// a.sidebar-item-text.sidebar-link.text-start{
+//     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
+//     font-size: $font-size-base * 1.5;
+//     // color: $primary
+// }
 
 .fas, .fa-solid{
     font-family: "Oleo Script", "Libre Baskerville", $headings-font-family;
-    color: $teal !important;
+    // color: $teal !important;
 }
 
-#title-block-header.quarto-title-block.default .quarto-title .title {
-    font-family: "Oleo Script", "Libre Baskerville", $headings-font-family;
-    font-size: $font-size-base * 2.5;
-}
+// #title-block-header.quarto-title-block.default .quarto-title .title {
+//     font-family: "Oleo Script", "Libre Baskerville", $headings-font-family;
+//     font-size: $font-size-base * 2.5;
+// }
   
-.navbar{
+.navbar-logo{
  height: 1.3cm;
 }
 
-.navbar-dark .navbar-brand {
-    font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.75;
-}
+// Position responsive elements
+// .navbar {
+//     height: 1.3cm;
+//     .navbar-brand-container {
+//       order: 2;
+//     }
+//     .navbar-toggler {
+//       order: 3;
+//       margin-right: 0;
+//     }
+//     .navbar-collapse {
+//       order: 4;
+//     }
+  
+//     #quarto-search {
+//       order: 1;
+//     }
+//   }
 
-.nav-item{
+// .navbar-dark .navbar-brand {
+//     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
+//     font-size: $font-size-base * 1.75;
+// }
+
+// .nav-item{
+//     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
+//     font-size: $font-size-base * 1.5;
+// }
+
+.navbar-title {
     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.5;
+    font-size: $font-size-base * 1.7;
+    color: $teal;
 }
 
 .show-abstract {

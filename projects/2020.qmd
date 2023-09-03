@@ -6,30 +6,15 @@ format:
         toc: true
 ---
 
-
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-
-::: {.justify}
 ## Elaboration du Schéma Directeur d’Aménagement et de Gestion des Ressources en Eau (SDAGE) dans les Unités de Gestion et de Planification (UGP) de la Casamance et du Sénégal Oriental (Mai 2020)
 L’objectif général du projet est de faire une évaluation quantitative et qualitative des potentiels des ressources en eau dans la perspective d’une mobilisation optimale de celles-ci.
-:::
 
-::: {.justify}
 ## Etudes hydrogéologiques et hydrologique de la Casamance et du Sénégal Oriental (Avril 2020)
 L’objectif général du projet est de faire une évaluation quantitative et qualitative des potentiels des ressources en eau dans la perspective d’une mobilisation optimale de celles-ci.
-:::
 
-::: {.justify}
 ## Amélioration de la Prise de Décision basée sur des Preuves [WASH (IWED)](https://www.globalwaters.org/resources/assets/walis/improving-wash-evidence-based-decision-making-iwed-program-summary){target="_blank"} (Janvier 2020 - Décembre 2020)
 Le programme Eau pour l'Afrique par le Leadership et le Soutien Institutionnel ([WALIS](https://www.globalwaters.org/walis){target="_blank"}) financé par l'Agence Américaine pour le Développement International ([USAID](https://www.usaid.gov/){target="_blank"}) vise à aider les institutions nationales et régionales et leurs partenaires de développement à améliorer les capacités des gouvernements nationaux des secteurs de l'eau et de l'assainissement, en Afrique, à mettre en œuvre des politiques, des stratégies et des plans qui permettront de fournir des services WASH durables et compatibles avec les Objectifs de Développement Durable (ODD). L'une des activités principales du programme [WALIS](https://www.globalwaters.org/walis){target="_blank"} est le projet « Amélioration de la Prise de Décision basée sur des Preuves [WASH (IWED)](https://www.globalwaters.org/resources/assets/walis/improving-wash-evidence-based-decision-making-iwed-program-summary){target="_blank"} »  qui est une initiative d'assistance technique visant à appuyer les gouvernements nationaux sélectionnés dans la réalisation de l’ODD 6.
-:::
 
-::: {.justify}
 ## Etude de la gestion intégrée de l’eau en milieu urbain dans le grand DakarEtude de la gestion intégrée de l’eau en milieu urbain dans le grand Dakar (Février 2020 - Novembre 2020)
 La mission d’étude de la Gestion Intégrée de l'Eau en Milieu Urbain (GIEMU) a pour principal objectif de développer une stratégie de sécurité de l’eau pour la zone de grand Dakar à l’horizon 2050 en s’appuyant sur une approche structurée autour de principes généraux de gestion intégrée des eaux urbaines. Cette stratégie est fondée sur une analyse intégrée, dans l’espace urbain, des composantes ci-après:
 
@@ -40,9 +25,6 @@ La mission d’étude de la Gestion Intégrée de l'Eau en Milieu Urbain (GIEMU)
 * L’intégration de l’économie circulaire dans la GIEMU;
 * La planification de l’espace et des activités urbaines en lien avec les eaux ;
 * La coordination intersectorielle centrée sur les usages de l’eau et l’assainissement
-:::
 
-::: {.justify}
 ### Renforcement du dialogue entre les secteurs de la forêt, de l'agriculture, de l'élevage et de l'utilisation des terres au Sénégal afin de soutenir les interventions d'adaptation et d'atténuation, dans le cadre de l'Initiative de la Grande Muraille VerteRenforcement du dialogue entre les secteurs de la forêt, de l'agriculture, de l'élevage et de l'utilisation des terres au Sénégal afin de soutenir les interventions d'adaptation et d'atténuation, dans le cadre de l'Initiative de la Grande Muraille Verte (Mars 2020 - Octobre 2020)
 L’objectif général de l’étude est de faire une situation de référence et une évaluation stratégique du potentiel d’adaptation et d’atténuation dans la zone géographique privilégiée sur le plan écologique (Les 3 zones d’intervention de la Grande Muraille Verte) ; de rassembler et partager les conclusions et les enseignements tirés des principales parties prenantes sur les interventions en cours de l'initiative GMV et leurs impacts sur le changement climatique les orientations à prendre ; d’établir un système de surveillance complet pour la GMV qui intègre des indicateurs basés sur le changement climatique ; d’accompagner le secteur privé à mobiliser des ressources pour soutenir les options d'intervention d'adaptation et d'atténuation.
-:::

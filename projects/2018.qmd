@@ -6,15 +6,5 @@ format:
         toc: true
 ---
 
-
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
-
-
-::: {.justify}
 ## PAGIRE (Plan d’Action pour la Gestion Intégrée des Ressources en Eau) (Associé à l'Université Gaston Berger / Janvier 2018 - Juillet 2018)
 Intégration de la composante changement climatique dans le [PAGIRE (Plan d’Action pour la Gestion Intégrée des Ressources en Eau)](http://www.dgpre.gouv.sn/index.php/2018/09/14/le-plan-de-gestion-integree-des-ressources-en-eau-pagire/){target="_blank"}.
-:::

@@ -1,7 +1,7 @@
 {
-  "hash": "f333ef280ac482a939f69c6c6651648d",
+  "hash": "11fe844e96ee7dec48511ad0065e8ddc",
   "result": {
-    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2012\"\nformat: \n    html:\n        toc: true\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n::: {.justify}\n##  Etudes techniques d’exécution et d’élaboration d’un dossier d’appel d’offres pour les travaux d’entretien périodique des tronçons : Sénobo-Ziguinchor (137 Km environ) situé sur la RN4 et la CFN4 (Diaroumè) - Sédhiou situé sur la R22 (53 Km environ) (Associé avec la Direction de la Gestion et de la Planification des Ressources en Eau (DGPRE) / Janvier 2012 - Janvier 2013) \nCollecte et traitement des données pluviométriques, cartographique et topographique. Puis délimitation des différents bassins versants et caractérisation physiographique de ces derniers et calcule des crues décennaux des bassins versants.\n:::\n",
+    "markdown": "---\nengine: knitr\ntitle: \"Projets en 2012\"\nformat: \n    html:\n        toc: true\n---\n\n\n##  Etudes techniques d’exécution et d’élaboration d’un dossier d’appel d’offres pour les travaux d’entretien périodique des tronçons : Sénobo-Ziguinchor (137 Km environ) situé sur la RN4 et la CFN4 (Diaroumè) - Sédhiou situé sur la R22 (53 Km environ) (Associé avec la Direction de la Gestion et de la Planification des Ressources en Eau (DGPRE) / Janvier 2012 - Janvier 2013) \nCollecte et traitement des données pluviométriques, cartographique et topographique. Puis délimitation des différents bassins versants et caractérisation physiographique de ces derniers et calcule des crues décennaux des bassins versants.\n",
     "supporting": [
       "2012_files"
     ],
