@@ -9,7 +9,7 @@ format:
 {{< include utils.qmd >}}
 
 ::: {.justify}
-## Bodian, Ansoumana. (2023). Recent evolution of hydroclimatic conditions in the Senegal River Basin (Workshop : Tropical Atlantic basin hydroclimate change: learning from long instrumental records [16 May - 17 May 2023] CET, University of Bern, Switzerland, and online). [https://www.researchgate.net/publication/370928210_...](https://www.researchgate.net/publication/370928210_Recent_evolution_of_hydroclimatic_conditions_in_the_Senegal_River_Basin){target="_blank"}
+## {{< fa person-chalkboard >}} Bodian, Ansoumana. (2023). Recent evolution of hydroclimatic conditions in the Senegal River Basin (Workshop : Tropical Atlantic basin hydroclimate change: learning from long instrumental records [16 May - 17 May 2023] CET, University of Bern, Switzerland, and online). [https://www.researchgate.net/publication/370928210_...](https://www.researchgate.net/publication/370928210_Recent_evolution_of_hydroclimatic_conditions_in_the_Senegal_River_Basin){target="_blank"}
 This presentation attempts to analyze, from the long series, the hydroclimatic evolution in the Senegal River basin. This talk tries to show the impact of the different phases of management and the new research challenges that these hydraulic infrastructures pose at the scale of the Senegal River basin in a global change context.
 :::
 
