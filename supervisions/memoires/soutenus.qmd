@@ -6,7 +6,7 @@ format:
         toc: true
 ---
 
-## {{< fa check-double >}} NDIAYE Tegue Diagne, (2022). Régionalisation des paramètres du modèle GR2M dans le bassin de la Gambie.
+## {{< fa check-double >}} Ndiaye Tegue Diagne, (2022). Régionalisation des paramètres du modèle GR2M dans le bassin de la Gambie.
 Les services hydrologiques nationaux peinent à assurer un suivi adéquat des cours d'eau en raison d'un manque de ressources financières et humaines. La connaissance de la ressource est donc limitée par l’inaccessibilité des données hydro-climatiques observées, leur caractère lacunaire et la faible densité spatiale des stations de mesure. Ainsi l’objectif de cette présente étude est d’estimer les apports en eau dans le bassin versant du fleuve Gambie via une régionalisation des paramètres du modèle hydrologique GR2M. La méthode de régionalisation s’appuie dans un premier temps sur la connaissance des jeux de paramètres sur les bassins dont on dispose des données hydrologiques, pour, dans un second temps prévoir les jeux de paramètres sur des bassins non jaugés. La démarche méthodologique adoptée comporte trois phases : 
 
 1. calcul de la pluie moyenne mensuelle et de l’ETP moyenne mensuelle (données d’entrée du modèle GR2M) des sous bassins versants par la méthode distance inverse pondérée au carré ;
