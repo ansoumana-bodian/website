@@ -6,6 +6,10 @@ website:
   page-navigation: true
   title: "Ansoumana Bodian"
   favicon: img/logo.jpg
+  search: 
+    location: navbar
+    type: overlay
+    copy-button: true
 
   page-footer:
     left: "&copy; Copyright 2023, Ansoumana BODIAN"

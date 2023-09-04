@@ -66,6 +66,6 @@ Mes activités de recherche tournent autour de la caractérisation de la variabi
 [[`r fontawesome::fa("linkedin", a11y = "sem")` Ansoumana Bodian](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn)]{.contacts-text}
 :::
 
-## [{{< fa envelope >}} NewsLetter]{.home-page-subtitle}
+<!-- ## [{{< fa envelope >}} NewsLetter]{.home-page-subtitle}
 Recever mes publications en temps réel !<br>
-<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 65px; width: 90%;"></iframe>
+<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 65px; width: 90%;"></iframe> -->
