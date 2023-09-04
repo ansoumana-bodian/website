@@ -13,7 +13,7 @@ website:
 
   page-footer:
     left: "&copy; Copyright 2023, Ansoumana BODIAN"
-    # right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: "This page is built with [GitHub](https://github.com/) and [Quarto](https://quarto.org/)."
 
   navbar:
     # logo: img/bodian_profile.jpg
