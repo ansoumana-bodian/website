@@ -1,0 +1,14 @@
+---
+engine: knitr
+title: "Papiers en 2011"
+format: 
+  html:
+    toc: true
+---
+
+{{< include utils.qmd >}} 
+
+## {{< fa note-sticky >}} Ansoumana Bodian, Honoré Dacosta et Alain Dezetter, « Caractérisation spatio-temporelle du régime pluviométrique du haut bassin du fleuve Sénégal dans un contexte de variabilité climatique », Physio-Géo, Volume 5 | -1, 107-124. [https://doi.org/10.4000/physio-geo.1958](https://doi.org/10.4000/physio-geo.1958){target="_blank"}.
+Les écoulements et par conséquent les ressources en eau constituent la réponse des bassins versants aux impulsions pluviométriques. En Afrique de l'Ouest et Centrale, on assiste depuis les années 1970 à une sécheresse sans précédent, ainsi qu'à une grande variabilité spatiale et temporelle des pluies, caractéristique du domaine tropical. L'objectif de ce travail est de définir la variabilité spatio-temporelle des précipitations à l'échelle du haut-bassin du fleuve Sénégal à partir des données de dix stations de référence. [Le choix des stations obéit à des critères de qualité des données (lacunes peu nombreuses) et de proximité avec le bassin versant. Dans un premier temps, des tests statistiques d'homogénéité ont été appliqués aux séries de pluies annuelles de l'origine des stations à 2005. Les séries analysées présentent toutes des ruptures. Sur les dix stations étudiées, huit présentent une rupture comprise entre 1960 et 1970 et les déficits ultérieurs varient entre 12 et 24 %. À l'échelle mensuelle, après reconstitution des données manquantes, il apparaît que les précipitations ont diminué significativement pour presque tous les mois entre les deux périodes. À l'échelle journalière, l'analyse des fractions pluviométriques journalières met en évidence une tendance à la diminution du cumul annuel moyen des pluies supérieures à 40 mm (qui sont considérées comme les grosses pluies) à partir des années de rupture. Nous avons ensuite caractérisé la variabilité spatiale des précipitations annuelles moyennes sur 30 et 10 ans, puis les écarts par rapport à la décennie de référence 1961-1970. Il apparaît ainsi que le sud du bassin présente les excédents les plus forts durant les périodes excédentaires, mais aussi les déficits les plus élevés en périodes déficitaires.]{.abstract}
+
+

@@ -84,7 +84,13 @@ h2.anchored {
 
 .skills-text {
     font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-    font-size: $font-size-base * 1.02;
+    font-size: $font-size-base * 1.12;
+    color: $gray-600;
+}
+
+.contacts-text {
+    font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
+    font-size: $font-size-base * 1.1;
 }
 
 // .sidebar-item-container{

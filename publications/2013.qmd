@@ -1,0 +1,12 @@
+---
+engine: knitr
+title: "Papiers en 2013"
+format: 
+  html:
+    toc: true
+---
+
+{{< include utils.qmd >}}
+
+## {{< fa person-chalkboard >}} Bodian, Ansoumana & Dacosta, Honoré & Dezetter, Alain. (2013). ANALYSIS OF FLOW AND FLOOD low flow BASIN VERSANT SENEGAL RIVER DAM UPSTREAM MANANTALI. [https://www.researchgate.net/publication/264037009_...](https://www.researchgate.net/publication/264037009_ANALYSIS_OF_FLOW_AND_FLOOD_low_flow_BASIN_VERSANT_SENEGAL_RIVER_DAM_UPSTREAM_MANANTALI){target="_blank"}
+Pour atténuer les effets de la péjoration climatique, assurer une meilleure maîtrise des ressources en eaux, et impulser des actions de développement, deux barrages ont été réalisés sur le fleuve Sénégal par l'Organisation pour la Mise en Valeur du fleuve Sénégal (OMVS). La gestion de ces ouvrages et des ressources en eau nécessite une bonne caractérisation des formes extrêmes des écoulements que constituent les crues et les étiages. [Ainsi, cet article a pour objectif d’analyser les débits de crues et d’étiages du Bafing, principal affluent du fleuve Sénégal, en amont du barrage de Manantali. Les données hydrologiques exploitées proviennent de la banque de données de l'OMVS et couvre la période 1954-2005 pour Dakka Saidou et 1962-2005 pour Bafing Makana. La méthodologie utilisée s'article autour des points suivants: (i) constitution d'un échantillon des débits maximums journaliers et calcule des puissances de crue; (ii) ensuite calcule des probabilités de dépassement des débits et des volumes écoulés correspondants; (iii) enfin, calcule des coefficients de tarissement annuels et des volumes d’eaux correspondants ainsi que leurs probabilités de dépassement. L'analyse des résultats montre que l'évolution des chroniques de débits maximums journaliers est pratiquement calquée sur celle de l’écoulement annuel...]{.abstract}

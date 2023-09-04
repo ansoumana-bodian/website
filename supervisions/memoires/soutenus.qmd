@@ -1,0 +1,44 @@
+---
+engine: knitr
+title: "Mémoires Soutenus"
+format: 
+    html:
+        toc: true
+---
+
+## {{< fa check-double >}} NDIAYE Tegue Diagne, (2022). Régionalisation des paramètres du modèle GR2M dans le bassin de la Gambie.
+Les services hydrologiques nationaux peinent à assurer un suivi adéquat des cours d'eau en raison d'un manque de ressources financières et humaines. La connaissance de la ressource est donc limitée par l’inaccessibilité des données hydro-climatiques observées, leur caractère lacunaire et la faible densité spatiale des stations de mesure. Ainsi l’objectif de cette présente étude est d’estimer les apports en eau dans le bassin versant du fleuve Gambie via une régionalisation des paramètres du modèle hydrologique GR2M. La méthode de régionalisation s’appuie dans un premier temps sur la connaissance des jeux de paramètres sur les bassins dont on dispose des données hydrologiques, pour, dans un second temps prévoir les jeux de paramètres sur des bassins non jaugés. La démarche méthodologique adoptée comporte trois phases : 
+
+1. calcul de la pluie moyenne mensuelle et de l’ETP moyenne mensuelle (données d’entrée du modèle GR2M) des sous bassins versants par la méthode distance inverse pondérée au carré ;
+2. évaluation de la performance du modèle et la détermination des paramètres X1 et X2 pour les sous bassins dont les chroniques de débit des stations hydrométriques sont au moins de cinq années puis simuler les débits avec les paramètres optimisés X1 et X2 ; 
+3. interpolation des paramètres X1 et X2 enfin de générer de nouveaux paramètres régionalisés X’1 et X’2 pour les dix-huit bassins puis simuler les débits avec les paramètres X’1 et X’2 pour ensuite comparer les débits simulés en phase (1) et (2) avec le KGE et le PBIAIS comme critères
+d’évaluation du modèle GR2M.
+
+Ce mémoire de Master a été soutenu publiquement par Mme Tegue Diagne NDIAYE le 03 février 2022, devant le jury composé par :<br><hr>
+{{< fa angle-right >}}  M. Boubou Aldiouma SY (Professeur Titulaire/UFR-LSH/UGB [Président])<br>
+{{< fa angle-right >}}  M. Lamine DIOP (Maitre Assistant/UFR-S2ATA/UGB [Examinateur])<br>
+{{< fa angle-right >}}  M. Adama SARR (Assistant/UFR-LSH/UGB [Examinateur])<br>
+{{< fa angle-right >}}  M. Ansoumana BODIAN (Maitre de conférences/UFR-LSH/UGB [Encadrant])
+
+## {{< fa check-double >}} Diop, Serigne Bassirou (2022). Evaluation, calibration et analyse des tendances de l’évapotranspiration de référence (ET~0~) dans les bassins des fleuves Casamance et Gambie.
+La méthode de Penman-Monteith (FAO56-PM) est recommandée pour estimer l’ET~0~ dans n’importe quel contexte climatique. Toutefois, son application est limitée dans certaines régions par l’indisponibilité et la difficulté d’accés aux données. Dans ce contexte, l’alternative est d’utiliser des méthodes d’estimation de l’ET~0~ intégrant moins de variables climatiques. Ce travail a trois objectifs : 
+
+1. évaluer la performance de vingt méthodes d’estimation de
+l’ET~0~ ;
+2. calibrer/valider les meilleurs méthodes pour les adapter aux contextes climatiques des bassins de la Casamance et de la Gambie ;
+3. analyser les tendances annuelles et saisonnières de l’ET~0~ ainsi
+que sa sensibilité aux variables climatiques. 
+
+Pour ce faire, les données journalières de la température, de la vitesse du vent, de l’humidité relative et de la radiation solaire des Réanlyses de la NASA ont été utilisées pour calculer l’ET~0~ et analyser sa tendance sur la période 1984-2019. La performance des méthodes a été évaluée par le KGE et le PBIAIS et l’analyse de tendance a été effectuée par le test Mann Kendall et la pente de Sen.
+
+Ce mémoire de Master a été soutenu publiquement par M. Serigne Bassirou DIOP le 08 février 2021, devant le jury composé par :<br><hr>
+{{< fa angle-right >}} M. Boubou Aldiouma SY (Professeur Titulaire/UFR-LSH/UGB [Président])<br>
+{{< fa angle-right >}} M. Dah DIENG (Maître Assistant/UFR-LSH/UGB [Examinateur])<br>
+{{< fa angle-right >}} M. Lamine DIOP (Maître Assistant UFR-S2ATA/UGB [Examinateur])<br>
+{{< fa angle-right >}} M. Ansoumana BODIAN (Maître de Conférences UFR-LSH/UGB [Encadrant])<br>
+
+## {{< fa check-double >}} Ndiaye, Papa Malick (2017). Évaluation de vingt méthodes d'estimation de l'évapotranspiration journalière de référence au Burkina Faso.
+
+Connaître l'évapotranspiration (ET) est très important en matière de planification et de gestion des ressources en eau. À cet effet, plusieurs formules ont été développées pour son estimation. Parmi ces méthodes, celle de PENMAN-MONTEITH est recommandée par la FAO comme modèle de référence du fait de sa performance sous différentes conditions climatiques. Cependant l'application de cette méthode peut être difficile dans certains pays, surtout ceux en voie de développement, où l'accès aux données climatiques est parfois limité. L'une des alternatives est alors d'utiliser des méthodes intégrant moins de variables climatiques. 
+
+L'objectif de ce travail est d'évaluer des méthodes d'estimation de l'évapotranspiration, avant de caler et valider les deux meilleures. Pour ce faire, les données de variables climatiques journalières (Tmax, Tmin, Rs, HRmax, HRmin et u2) de huit stations sur la période 1998-2012 ont été utilisées. L'évaluation des méthodes testées s'est faite en comparant, à l'aide de différents paramètres statistiques, les valeurs qu'elles ont fournies à l'ET0 estimée par la méthode de PENMAN-MONTEITH. 

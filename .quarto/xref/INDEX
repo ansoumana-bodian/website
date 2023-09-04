@@ -91,5 +91,38 @@
   },
   "publications/2016.qmd": {
     "2016.html": "dcc71acf"
+  },
+  "publications/2015.qmd": {
+    "2015.html": "e3563c03"
+  },
+  "publications/2014.qmd": {
+    "2014.html": "12825ff3"
+  },
+  "publications/2013.qmd": {
+    "2013.html": "e9951f20"
+  },
+  "publications/2012.qmd": {
+    "2012.html": "867dbc1b"
+  },
+  "publications/2011.qmd": {
+    "2011.html": "07759bce"
+  },
+  "supervisions/memoires/memoires.qmd": {
+    "memoires.html": "76cf55c0"
+  },
+  "supervisions/thesis/encours.qmd": {
+    "encours.html": "b765a13b"
+  },
+  "supervisions/thesis/soutenus.qmd": {
+    "soutenus.html": "3e2877de"
+  },
+  "supervisions/thesis/index.qmd": {
+    "index.html": "f30c4c73"
+  },
+  "supervisions/memoires/soutenus.qmd": {
+    "soutenus.html": "d7245266"
+  },
+  "supervisions/memoires/encours.qmd": {
+    "encours.html": "fa91c181"
   }
 }

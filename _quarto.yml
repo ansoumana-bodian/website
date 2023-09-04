@@ -21,9 +21,9 @@ website:
       - text: Projets
         href: projects/2023.qmd
       - text: Publications
-        file: publications/2022.qmd
+        file: publications/2023.qmd
       - text: Supervisions
-        file: supervisions/thesis.qmd
+        file: supervisions/thesis/soutenus.qmd
       # - text: "CV"
       #   file: about.qmd
       - text: Ressources
@@ -56,7 +56,6 @@ website:
           - text: bodianansoumana@gmail.com
             href:  mailto:bodianansoumana@gmail.com
             target: _blank
-        href: https://https://wa.me/221778117553
       - icon: linkedin
         menu:
           - text: Profile
@@ -74,10 +73,20 @@ website:
   sidebar:
     - id: projects
       logo: img/logo.jpg
-      collapse-level: 2
+      collapse-level: 3
       style: "docked"
       # background: light
       contents:
+        - section: "Supervisions"
+          contents: 
+            - section: Thèses de Doctorat
+              contents: 
+                - supervisions/thesis/soutenus.qmd
+                - supervisions/thesis/encours.qmd
+            - section: Mémoire de Master
+              contents: 
+                - supervisions/memoires/soutenus.qmd
+                - supervisions/memoires/encours.qmd
         - section: Publications
           contents: 
             - publications/2023.qmd
@@ -88,6 +97,11 @@ website:
             - publications/2018.qmd
             - publications/2017.qmd
             - publications/2016.qmd
+            - publications/2015.qmd
+            - publications/2014.qmd
+            - publications/2013.qmd
+            - publications/2012.qmd
+            - publications/2011.qmd
         - section: Projets
           contents: 
             - projects/2023.qmd
@@ -100,15 +114,11 @@ website:
             - projects/2014.qmd
             - projects/2012.qmd
             - projects/2009.qmd
-        - section: "Supervisions"
-          contents: 
-            - supervisions/thesis.qmd
-            # - supervisions/memoires.qmd
 
 format:
   html:
     grid:
-      sidebar-width: 200px
+      sidebar-width: 230px
       margin-width: 350px
       # body-width: 600px
     theme: 

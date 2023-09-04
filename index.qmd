@@ -14,15 +14,7 @@ title: ""
     # - icon: github
     #   text: Github
     #   href: https://github.com
-    # - icon: linkedin
-    #   text: LinkedIn
-    #   href:  https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
-    # - icon: researchgate
-    #   text: ResearchGate
-    #   href: https://www.researchgate.net/profile/Ansoumana-Bodian
-    # - icon: whatsapp
-    #   text: WhatsApp
-    #   href: https://https://wa.me/221778117553
+
 format: 
   html: 
     toc: false
@@ -31,7 +23,11 @@ format:
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
 <br><br>
-![](img/bodian_profile.jpg){width="85%" height="85%"}
+
+![](img/bodian_profile.jpg){width="85%" height="85%"}<br>
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=GWiPAMIAAAAJ&hl=fr&oi=ao){target="_blank"}<br>
+[`r fontawesome::fa("linkedin")` LinkedIn](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn){target="_blank"}<br>
+[{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/Ansoumana-Bodian){target="_blank"}<br>
 
 :::
 ::: {.g-col-12 .g-col-md-8}
@@ -43,7 +39,7 @@ Mes activités de recherche tournent autour de la caractérisation de la variabi
 :::
 
 ::: {.column-margin}
-## [{{< fa sliders >}} Skills]{.home-page-subtitle-2}
+## [{{< fa sliders >}} Skills]{.home-page-subtitle}
 [**{{< fa angle-right >}}** Expert sénior dans la formulation et la gestion des projets dans le secteur de l'eau <br>
 **{{< fa angle-right >}}** Système d'Information Géographie (SIG) <br>
 **{{< fa angle-right >}}** Hydrométrie <br>
@@ -60,14 +56,14 @@ Mes activités de recherche tournent autour de la caractérisation de la variabi
 **{{< fa angle-right >}} Juin 2009 - Août 2009 :** Directeur des Etudes au Millénium Challenge Acount (MCA) / Sénégal
 
 ::: {.column-margin}
-## [{{< fa id-card >}} Contacts]{.home-page-subtitle-2}
-[{{< fa envelopes-bulk >}} ansoumana.bodian@ugb.edu.sn](mailto:ansoumana.bodian@ugb.edu.sn)<br><br>
-[{{< fa envelopes-bulk >}} bodianansoumana@gmail.com](mailto:bodianansoumana@gmail.com)<br><br>
+## [{{< fa id-card >}} Contacts]{.home-page-subtitle}
+[[{{< fa envelopes-bulk >}} Email-1](mailto:ansoumana.bodian@ugb.edu.sn)]{.contacts-text}<br><br>
+[[{{< fa envelopes-bulk >}} Email-2](mailto:bodianansoumana@gmail.com)]{.contacts-text}<br><br>
 <!---
  [`r fontawesome::fa("whatsapp", a11y = "sem")` 221 77 811 75 53](https://https://wa.me/221778117553)<br> 
 --->
-[`r fontawesome::fa("researchgate", a11y = "sem")` ResearchGate/Ansoumana Bodian](https://www.researchgate.net/profile/Ansoumana-Bodian)<br><br>
-[`r fontawesome::fa("linkedin", a11y = "sem")` LinkedIn/Ansoumana Bodian](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn)
+[[`r fontawesome::fa("researchgate", a11y = "sem")` Ansoumana Bodian](https://www.researchgate.net/profile/Ansoumana-Bodian)]{.contacts-text}<br><br>
+[[`r fontawesome::fa("linkedin", a11y = "sem")` Ansoumana Bodian](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn)]{.contacts-text}
 :::
 
 ## [{{< fa envelope >}} NewsLetter]{.home-page-subtitle}
