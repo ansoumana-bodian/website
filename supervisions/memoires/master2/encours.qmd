@@ -1,6 +1,6 @@
 ---
 engine: knitr
-title: "Mémoires En Cours"
+title: "Mémoires (M2) En Cours"
 format: 
     html:
         toc: true

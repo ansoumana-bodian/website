@@ -22,12 +22,12 @@ website:
     left:
       # - text: "Accueil"
       #   file: index.qmd
-      - text: Projets
-        href: projects/2023.qmd
+      - text: Supervisions Académiques
+        file: supervisions/thesis/soutenus.qmd
       - text: Publications
         file: publications/2023.qmd
-      - text: Supervisions
-        file: supervisions/thesis/soutenus.qmd
+      - text: Projets
+        href: projects/2023.qmd
       # - text: "CV"
       #   file: about.qmd
       - text: Ressources
@@ -75,13 +75,16 @@ website:
             href: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/details/publications/
             target: _blank
   sidebar:
-    - id: projects
+    - id: site_web
       logo: img/logo.jpg
-      collapse-level: 3
+      collapse-level: 4
       style: "docked"
       # background: light
       contents:
-        - section: "Supervisions"
+        # - section: "Cours"
+        #   contents: 
+        #     - courses/masterOA2C/course.qmd
+        - section: "Supervisions Académiques"
           contents: 
             - section: Thèses de Doctorat
               contents: 
@@ -89,8 +92,13 @@ website:
                 - supervisions/thesis/encours.qmd
             - section: Mémoire de Master
               contents: 
-                - supervisions/memoires/soutenus.qmd
-                - supervisions/memoires/encours.qmd
+                - section: "Master II"
+                  contents: 
+                    - supervisions/memoires/master2/soutenus.qmd
+                    - supervisions/memoires/master2/encours.qmd
+                - section: "Master I"
+                  contents: 
+                    - supervisions/memoires/master1/soutenus.qmd
         - section: Publications
           contents: 
             - publications/2023.qmd
@@ -122,8 +130,8 @@ website:
 format:
   html:
     grid:
-      sidebar-width: 230px
-      margin-width: 350px
+      sidebar-width: 270px
+      margin-width: 340px
       # body-width: 600px
     theme: 
       - cosmo

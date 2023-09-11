@@ -1,0 +1,11 @@
+---
+engine: knitr
+title: "[Master 0A2C (Océan-Atmosphère-Climat et Chimie de l’Eau)](https://diopbachir.github.io/revealjs.presentation/#/title-slide){target=_blank}"
+format: 
+    html:
+        toc: false
+        grid: 
+          margin-width: 20px
+---
+
+<iframe class="slide-deck" src="https://diopbachir.github.io/revealjs.presentation/#/title-slide" width=100% height=100%></iframe>

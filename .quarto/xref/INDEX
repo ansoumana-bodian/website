@@ -124,5 +124,44 @@
   },
   "supervisions/memoires/encours.qmd": {
     "encours.html": "fa91c181"
+  },
+  "courses/master_OA2C/oa2c_course.qmd": {
+    "oa2c_course.html": "e12367f7"
+  },
+  "courses/oa2C_master.qmd": {
+    "oa2C_master.html": "b054827d"
+  },
+  "courses/masterOA2C/presentation.qmd": {
+    "presentation.html": "934d66e7"
+  },
+  "courses/masterOA2C/cours.qmd": {
+    "cours.html": "acd49392"
+  },
+  "courses/masterOA2C/index.qmd": {
+    "index.html": "44dd311b"
+  },
+  "courses/masterOA2C/course_presentation.qmd": {
+    "course_presentation.html": "c8bbd389"
+  },
+  "courses/masterOA2C/course.qmd": {
+    "course.html": "03997bfd"
+  },
+  "supervisions/memoires/scripts.qmd": {
+    "scripts.html": "1dc1a3b5"
+  },
+  "docs/supervisions/memoires/docs/tegue_ndiaye.qmd": {
+    "tegue_ndiaye.html": "4b79497e"
+  },
+  "supervisions/memoires/docs/tegue_ndiaye.qmd": {
+    "tegue_ndiaye.html": "b802bcf8"
+  },
+  "supervisions/memoires/master1/soutenus.qmd": {
+    "soutenus.html": "31172351"
+  },
+  "supervisions/memoires/master2/encours.qmd": {
+    "encours.html": "e3e8b7ac"
+  },
+  "supervisions/memoires/master2/soutenus.qmd": {
+    "soutenus.html": "e822d2e3"
   }
 }
