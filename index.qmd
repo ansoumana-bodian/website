@@ -52,7 +52,7 @@ Mes activités de recherche tournent autour de la caractérisation de la variabi
 ## [{{< fa history >}} Expériences]{.home-page-subtitle}
 **{{< fa angle-right >}} Depuis Février 2013 :** Enseignant-Chercheur (Hydrologie) à [l'Université Gaston Berger de Saint-Louis](https://www.ugb.sn/){target="_blank"} (Full Time)<br>
 **{{< fa angle-right >}} Juillet 2010 - Février 2013 :** Chef de Division hydrologie point focal [OMVS](https://www.omvs.org/){target="_blank"} (Direction de la Gestion et de la Planification des Ressources en Eau)<br>
-**{{< fa angle-right >}} Juillet 2010 - Janvier 2013 :** Chef de la Division Hydrologie [(DGPRE)](http://www.dgpre.gouv.sn/){target="_blank"})<br>
+**{{< fa angle-right >}} Juillet 2010 - Janvier 2013 :** Chef de la Division Hydrologie [(DGPRE)](http://www.dgpre.gouv.sn/){target="_blank"}<br>
 **{{< fa angle-right >}} Juin 2009 - Août 2009 :** Directeur des Etudes au Millénium Challenge Acount (MCA) / Sénégal
 
 ::: {.column-margin}
