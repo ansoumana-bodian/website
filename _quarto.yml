@@ -88,8 +88,8 @@ website:
           contents: 
             - section: Thèses de Doctorat
               contents: 
-                - supervisions/thesis/soutenus.qmd
                 - supervisions/thesis/encours.qmd
+                - supervisions/thesis/soutenus.qmd
             - section: Mémoires de Master
               contents: 
                 - supervisions/memoires/master2.qmd
