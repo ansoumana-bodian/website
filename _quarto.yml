@@ -23,7 +23,7 @@ website:
       # - text: "Accueil"
       #   file: index.qmd
       - text: Supervisions Académiques
-        file: supervisions/thesis/soutenus.qmd
+        file: supervisions/index.qmd
       - text: Publications
         file: publications/2023.qmd
       - text: Projets
@@ -90,15 +90,10 @@ website:
               contents: 
                 - supervisions/thesis/soutenus.qmd
                 - supervisions/thesis/encours.qmd
-            - section: Mémoire de Master
+            - section: Mémoires de Master
               contents: 
-                - section: "Master II"
-                  contents: 
-                    - supervisions/memoires/master2/soutenus.qmd
-                    - supervisions/memoires/master2/encours.qmd
-                - section: "Master I"
-                  contents: 
-                    - supervisions/memoires/master1/soutenus.qmd
+                - supervisions/memoires/master2.qmd
+                - supervisions/memoires/master1.qmd
         - section: Publications
           contents: 
             - publications/2023.qmd
@@ -132,7 +127,7 @@ format:
     grid:
       sidebar-width: 270px
       margin-width: 340px
-      # body-width: 600px
+      # body-width: 800px
     theme: 
       - cosmo
       - styles.scss

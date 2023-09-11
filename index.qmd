@@ -57,12 +57,12 @@ Mes activités de recherche tournent autour de la caractérisation de la variabi
 
 ::: {.column-margin}
 ## [{{< fa id-card >}} Contacts]{.home-page-subtitle}
-[[{{< fa envelopes-bulk >}} Email-1](mailto:ansoumana.bodian@ugb.edu.sn)]{.contacts-text}<br><br>
-[[{{< fa envelopes-bulk >}} Email-2](mailto:bodianansoumana@gmail.com)]{.contacts-text}<br><br>
+[[{{< fa envelopes-bulk >}} Email-1](mailto:ansoumana.bodian@ugb.edu.sn)]{.contacts-text}<br>
+[[{{< fa envelopes-bulk >}} Email-2](mailto:bodianansoumana@gmail.com)]{.contacts-text}<br>
 <!---
  [`r fontawesome::fa("whatsapp", a11y = "sem")` 221 77 811 75 53](https://https://wa.me/221778117553)<br> 
 --->
-[[`r fontawesome::fa("researchgate", a11y = "sem")` Ansoumana Bodian](https://www.researchgate.net/profile/Ansoumana-Bodian)]{.contacts-text}<br><br>
+[[`r fontawesome::fa("researchgate", a11y = "sem")` Ansoumana Bodian](https://www.researchgate.net/profile/Ansoumana-Bodian)]{.contacts-text}<br>
 [[`r fontawesome::fa("linkedin", a11y = "sem")` Ansoumana Bodian](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn)]{.contacts-text}
 :::
 

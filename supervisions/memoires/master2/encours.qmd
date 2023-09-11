@@ -1,9 +1,0 @@
----
-engine: knitr
-title: "Mémoires (M2) En Cours"
-format: 
-    html:
-        toc: true
----
-
-A venir

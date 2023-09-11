@@ -163,5 +163,11 @@
   },
   "supervisions/memoires/master2/soutenus.qmd": {
     "soutenus.html": "e822d2e3"
+  },
+  "supervisions/memoires/master1.qmd": {
+    "master1.html": "af01dca0"
+  },
+  "supervisions/memoires/master2.qmd": {
+    "master2.html": "04342005"
   }
 }

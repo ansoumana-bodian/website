@@ -1,0 +1,16 @@
+{
+  "hash": "0722a41db4284fae390d70c78d0f076a",
+  "result": {
+    "markdown": "---\nengine: knitr\ntitle: \"Mémoires (M2) En Cours\"\nformat: \n    html:\n        toc: true\n---\n\n\nA venir\n",
+    "supporting": [
+      "encours_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
