@@ -33,7 +33,7 @@ format:
 **{{< fa angle-right >}}** Modélisation de la relation pluie-débit <br>
 **{{< fa angle-right >}}** Analyse hydro-climatique <br>
 **{{< fa angle-right >}}** Planification stratégique <br>
-**{{< fa angle-right >}}** Prise de parole en public]{.skills-text}
+**{{< fa angle-right >}}** Changements climatiques]{.skills-text}
 :::
 <hr>
 
