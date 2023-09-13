@@ -1,7 +1,0 @@
----
-engine: knitr
-format: html
-title: "Ndiaye Tegue Diagne, (2022). Régionalisation des paramètres du modèle GR2M dans le bassin de la Gambie."
----
-
-{{< pdf pdfs/Mémoire_TegueDNdiaye_M2_Géographie.pdf width=100% height=800 >}}
