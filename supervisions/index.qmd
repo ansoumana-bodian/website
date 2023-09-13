@@ -9,25 +9,25 @@ format:
 :::: {.columns}
 ::: {.column width="47.5%"}
 ## [Thèses Soutenus](thesis/soutenus.qmd)
-[![](img/graduation-3649717_1280.jpg)](thesis/soutenus.qmd)
+[![](img/graduation-3649717_1280.jpg)](./thesis/soutenus.qmd)
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="47.5%"}
 ## [Thèses En Cours](thesis/encours.qmd)
-[![](img/success-5382639_1280.jpg)](thesis/encours.qmd)
+[![](img/success-5382639_1280.jpg)](./thesis/encours.qmd)
 :::
 ::::
 
 :::: {.columns}
 ::: {.column width="47.5%"}
 ## [Mémoires de Master I](memoires/master1.qmd)
-[![](img/conductor-2012060_1280.jpg)](memoires/master1.qmd)
+[![](img/conductor-2012060_1280.jpg)](./memoires/master1.qmd)
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="47.5%"}
 ## [Mémoire de Master II](memoires/master2.qmd)
-[![](img/graduate-150374_1280)](memoires/master2.qmd)
+[![](img/graduate-150374_1280)](./memoires/master2.qmd)
 :::
 ::::
