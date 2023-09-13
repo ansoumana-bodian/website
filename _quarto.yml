@@ -127,7 +127,7 @@ website:
 format:
   html:
     grid:
-      sidebar-width: 285px
+      sidebar-width: 290px
       margin-width: 340px
       # body-width: 800px
     theme: 
