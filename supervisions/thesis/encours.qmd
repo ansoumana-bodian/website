@@ -18,11 +18,11 @@ La supervision de ce travail de thèse est assurée par : <br><hr>
 {{< fa angle-right >}} Yves TRAMBLAY (HydroSciences Montpellier)  <br>
 {{< fa angle-right >}} Alain DEZETTER (HydroSciences Montpellier). <br>
 
-## {{< fa bars-progress >}} Goudiaby, Omar (2020). Evaluation des estimations de pluies par satellites pour la modélisation hydrologique dans le bassin du fleuve Sénégal (Afrique de l’Ouest)
-Cette thèse porte sur l’évaluation des estimations de pluies par satellites pour la modélisation hydrologique dans le bassin du fleuve Sénégal (Afrique de l’Ouest). À l’échelle de ce bassin, la disponibilité d’observations météorologiques de qualité constitue un enjeu majeur. En effet, les données de mesures au sol sont souvent lacunaires et difficilement accessibles (à cause de leur coût d’acquisition élevé). Cela constitue un handicap pour la connaissance des ressources en eau, notamment l’analyse et la modélisation des évolutions hydrométéorologiques. Dans ce contexte, cette thèse cherche à :
+## {{< fa bars-progress >}} Goudiaby, Omar (2020). Apport des estimations de précipitations maillées pour la modélisation hydrologique dans les trois principaux hydrosystèmes du Sénégal : bassins des fleuves Casamance, Gambie et Sénégal.
+Cette thèse porte sur l’évaluation des estimations de pluies par satellites pour la modélisation hydrologique dans trois principaux hydrosystèmes du Sénégal (bassins des fleuves Casamance, Gambie et Sénégal). À l’échelle de ces bassins, la disponibilité d’observations météorologiques de qualité constitue un enjeu majeur. En effet, les données de mesures au sol sont souvent lacunaires et difficilement accessibles (à cause de leur coût d’acquisition élevé). Cela constitue un handicap pour la connaissance des ressources en eau, notamment l’analyse et la modélisation des évolutions hydrométéorologiques. Dans ce contexte, cette thèse cherche à :
 
-1. évaluer les estimations de pluies satellites et réanalyses dans cette zone (hauts bassins Guinéens) et déterminer la pertinence des différents produits disponibles (CHIRPS, MSWEP, TRMM, etc.) et,
-2. évaluer la sensibilité respective des modèles hydrologiques à ces sources de données afin de proposer une approche adaptée pour la compréhension et gestion des ressources en eau dans le bassin du fleuve Sénégal.
+1. évaluer les estimations de pluies satellites et réanalyses dans principaux hydrosystèmes du Sénégal et déterminer la pertinence des différents produits disponibles (CHIRPS, MSWEP, TRMM, etc.) et,
+2. évaluer la sensibilité respective des modèles hydrologiques à ces sources de données afin de proposer une approche adaptée pour la compréhension et la gestion des ressources en eau dans ces hydrosystèmes.
 
 La supervision de ce travail de thèse est assurée par : <br><hr> 
 {{< fa angle-right >}} Ansoumana BODIAN (Université Gaston Berger de Saint-Louis) <br>

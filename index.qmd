@@ -2,44 +2,31 @@
 engine: knitr
 side: false
 title: ""
-# image: img/bodian_profile.jpg
-# about:
-#   id: hero-heading
-  # template: trestles
-  # image-shape: rectangle
-  # links:
-    # - icon: twitter
-    #   text: Twitter
-    #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
-
-format: 
-  html: 
+image: img/bodian_profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    # - icon: linkedin_f
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Ansoumana-Bodian
+    - icon: googlescholar
+      text: GoogleScholar
+      href: https://scholar.google.com/citations?user=GWiPAMIAAAAJ&hl=fr&oi=ao
+format:
+  html:
+    grid:
+      sidebar-width: 285px
+      margin-width: 0px
     toc: false
 ---
 
-::: {.grid}
-::: {.g-col-12 .g-col-md-4}
-<br><br>
-
-![](img/bodian_profile.jpg){width="85%" height="85%"}<br>
-[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=GWiPAMIAAAAJ&hl=fr&oi=ao){target="_blank"}<br>
-[`r fontawesome::fa("linkedin")` LinkedIn](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn){target="_blank"}<br>
-[{{< ai researchgate >}} ResearchGate](https://www.researchgate.net/profile/Ansoumana-Bodian){target="_blank"}<br>
-
-:::
-::: {.g-col-12 .g-col-md-8}
-## [{{< fa user >}} Ansoumana BODIAN]{.home-page-subtitle}
-Je suis Enseignent chercheur au sein de la Section de Géographie à [l'Université Gaston Berger de Saint-Louis](https://www.ugb.sn/){target="_blank"} où je dispense des cours d'hydrologie et de Système d'Information Géographie (SIG) depuis 2013. 
-
-Mes activités de recherche tournent autour de la caractérisation de la variabilité spatio-temporelle du climat et de ses impacts hydrologiques, de la modélisation de la relation pluie-débit et de l'élaboration et l'assimilation des scénarios climatiques dans les modèles hydrologiques.
-:::
-:::
-
-::: {.column-margin}
-## [{{< fa sliders >}} Skills]{.home-page-subtitle}
+::: {#hero-heading}
 [**{{< fa angle-right >}}** Expert sénior dans la formulation et la gestion des projets dans le secteur de l'eau <br>
 **{{< fa angle-right >}}** Système d'Information Géographie (SIG) <br>
 **{{< fa angle-right >}}** Hydrométrie <br>
@@ -48,23 +35,29 @@ Mes activités de recherche tournent autour de la caractérisation de la variabi
 **{{< fa angle-right >}}** Planification stratégique <br>
 **{{< fa angle-right >}}** Prise de parole en public]{.skills-text}
 :::
+<hr>
 
-## [{{< fa history >}} Expériences]{.home-page-subtitle}
+:::: {.columns}
+::: {.column width="55%"}
+<!-- ## [{{< fa history >}} Expériences]{.home-page-subtitle} -->
 **{{< fa angle-right >}} Depuis Février 2013 :** Enseignant-Chercheur (Hydrologie) à [l'Université Gaston Berger de Saint-Louis](https://www.ugb.sn/){target="_blank"} (Full Time)<br>
 **{{< fa angle-right >}} Juillet 2010 - Février 2013 :** Chef de Division hydrologie point focal [OMVS](https://www.omvs.org/){target="_blank"} (Direction de la Gestion et de la Planification des Ressources en Eau)<br>
 **{{< fa angle-right >}} Juillet 2010 - Janvier 2013 :** Chef de la Division Hydrologie [(DGPRE)](http://www.dgpre.gouv.sn/){target="_blank"}<br>
 **{{< fa angle-right >}} Juin 2009 - Août 2009 :** Directeur des Etudes au Millénium Challenge Acount (MCA) / Sénégal
-
-::: {.column-margin}
-## [{{< fa id-card >}} Contacts]{.home-page-subtitle}
-[[{{< fa envelopes-bulk >}} Email-1](mailto:ansoumana.bodian@ugb.edu.sn)]{.contacts-text}<br>
-[[{{< fa envelopes-bulk >}} Email-2](mailto:bodianansoumana@gmail.com)]{.contacts-text}<br>
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="40%"}
+<!-- ## [{{< fa id-card >}} Contacts]{.home-page-subtitle} -->
+[[{{< fa envelopes-bulk >}} ansoumana.bodian@ugb.edu.sn](mailto:ansoumana.bodian@ugb.edu.sn)]{.contacts-text}<br>
+[[{{< fa envelopes-bulk >}} bodianansoumana@gmail.com](mailto:bodianansoumana@gmail.com)]{.contacts-text}<br>
 <!---
  [`r fontawesome::fa("whatsapp", a11y = "sem")` 221 77 811 75 53](https://https://wa.me/221778117553)<br> 
 --->
 [[`r fontawesome::fa("researchgate", a11y = "sem")` Ansoumana Bodian](https://www.researchgate.net/profile/Ansoumana-Bodian)]{.contacts-text}<br>
 [[`r fontawesome::fa("linkedin", a11y = "sem")` Ansoumana Bodian](https://www.linkedin.com/in/ansoumana-bodian-62a7aa60/?originalSubdomain=sn)]{.contacts-text}
 :::
+::::
 
 <!-- ## [{{< fa envelope >}} NewsLetter]{.home-page-subtitle}
 Recever mes publications en temps réel !<br>

@@ -76,7 +76,7 @@ website:
             target: _blank
   sidebar:
     - id: site_web
-      logo: img/logo.jpg
+      logo: img/logo_grid.png
       collapse-level: 4
       style: "docked"
       # background: light
