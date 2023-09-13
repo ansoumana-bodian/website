@@ -2,6 +2,7 @@
 engine: knitr
 side: false
 title: ""
+description: Ansoumana Bodian, Hydrologue, Enseignat-Chercheur à l'université Gastion berget de Saint-Louis (Sénégal).
 image: img/bodian_profile.jpg
 about:
   id: hero-heading
