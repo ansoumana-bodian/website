@@ -5,8 +5,9 @@ project:
 website:
   page-navigation: true
   title: "Ansoumana Bodian"
-  description: Ansoumana Bodian, Hydrologue, Enseignat-Chercheur à l'université Gastion berget de Saint-Louis.
+  description: Ansoumana Bodian, Hydrologue, Enseignat-Chercheur à l'université Gastion berget de Saint-Louis (Sénégal).
   favicon: img/logo.jpg
+  back-to-top-navigation: true
   search: 
     location: navbar
     type: overlay
