@@ -2,9 +2,7 @@
   "hash": "b690b50d38fcbd73ec137b1a01fa4f1f",
   "result": {
     "markdown": "---\nengine: knitr\ntitle: \"Supervisions Académiques\"\nformat: \n    html:\n        toc: false\n---\n\n\n:::: {.columns}\n::: {.column width=\"47.5%\"}\n## [Thèses Soutenus](thesis/soutenus.qmd)\n[![](img/graduation-3649717_1280.jpg)](thesis/soutenus.qmd)\n:::\n::: {.column width=\"5%\"}\n:::\n::: {.column width=\"47.5%\"}\n## [Thèses En Cours](thesis/encours.qmd)\n[![](img/success-5382639_1280.jpg)](thesis/encours.qmd)\n:::\n::::\n\n:::: {.columns}\n::: {.column width=\"47.5%\"}\n## [Mémoires de Master I](memoires/master1.qmd)\n[![](img/conductor-2012060_1280.jpg)](memoires/master1.qmd)\n:::\n::: {.column width=\"5%\"}\n:::\n::: {.column width=\"47.5%\"}\n## [Mémoire de Master II](memoires/master2.qmd)\n[![](img/graduate-150374_1280)](memoires/master2.qmd)\n:::\n::::",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

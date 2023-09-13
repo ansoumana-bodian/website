@@ -8,7 +8,7 @@ about:
   id: hero-heading
   template: trestles
   image-shape: round
-  image-width: 10em
+  image-width: 11em
   links:
     # - icon: linkedin_f
     #   text: LinkedIn
